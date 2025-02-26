@@ -1,0 +1,10 @@
+# Bahrain airport analysis
+this analysis for all departures and arrivals at Bahrain airport 
+
+## data
+this data collected from [BH airport][link]
+the data collected from 25-2-2025 to 28-2-2025
+
+## data acquisition 
+
+data collected using' requests ' and ' beautiful soup '
